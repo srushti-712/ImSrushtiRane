@@ -63,7 +63,9 @@ const Experience = () => {
           <div className="flex gap-10 bg-slate-950 bg-opacity-45 mt-4 rounded-lg p-4 items-center">
             {/* <FaGoogle color="#4285F4" size={50} /> */}
             <span className="text-white">
-              <h2 className="leading-tight">Full Stack Developer, Wohlig</h2>
+              <h2 className="leading-tight">
+                Full Stack Developer, Wohlig Transformations
+              </h2>
               <p className="text-sm leading-tight font-thin">
                 Sept 2022 - Present
               </p>
